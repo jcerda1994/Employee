@@ -1,4 +1,5 @@
 Overview of the analysis: Explain the purpose of this analysis.
+
 The purpose of this analysis is to join tables with its primary key in order to see the information they share among them, we created 4 tables with the mayor components of the employees that are about to retire
 
 
